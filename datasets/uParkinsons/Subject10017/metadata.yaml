@@ -1,0 +1,22 @@
+﻿group:
+  type: radio
+  value: Control
+age:
+  type: integer
+  unit: year
+  value: 64
+gender:
+  type: radio
+  value: F
+dbs:
+  type: radio
+  value: no
+freezer:
+  type: radio
+  value: no
+FOGQ:
+  type: integer
+  value: 0
+FOGQthree:
+  type: integer
+  value: 0

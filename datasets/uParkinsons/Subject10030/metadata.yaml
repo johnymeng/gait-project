@@ -1,0 +1,22 @@
+﻿group:
+  type: radio
+  value: PD
+age:
+  type: integer
+  unit: year
+  value: 63
+gender:
+  type: radio
+  value: M
+dbs:
+  type: radio
+  value: no
+freezer:
+  type: radio
+  value: no
+FOGQ:
+  type: integer
+  value: 0
+FOGQthree:
+  type: integer
+  value: 0
