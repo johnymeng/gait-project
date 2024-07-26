@@ -1,2 +1,3 @@
 datasets/ACC
 VAE+RNN/lstm_vae/processed_data/chest_accel.csv
+VAE+RNN/anomaly_lstm_vae/anomaly_state_dict
